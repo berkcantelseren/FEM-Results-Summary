@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-You can view the live demo [here](#).
+You can view the live demo [here](https://berkcantelseren.github.io/FEM-Results-Summary/)
 
 ## Overview
 
@@ -27,4 +27,4 @@ This component displays a user-friendly summary of test results, highlighting in
 
 ## Frontend Mentor
 
-[Frontend Mentor Challaange](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+Check the challenge and try it yourself -----> [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
