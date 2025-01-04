@@ -1,8 +1,8 @@
 # FEM-Results-Summary
 
-# FEM Results Summary Component
+## Live Demo
 
-This project is a solution to the **Frontend Mentor Results Summary Component Challenge**. It showcases responsive web design and accessibility best practices.
+You can view the live demo [here](#).
 
 ## Overview
 
@@ -11,10 +11,6 @@ This component displays a user-friendly summary of test results, highlighting in
 ### Screenshot
 
 ![Screenshot of the Results Summary Component](design/desktop-design.jpg)
-
-### Live Demo
-
-You can view the live demo [here](#).
 
 ## Features
 
@@ -31,4 +27,4 @@ You can view the live demo [here](#).
 
 ## Frontend Mentor
 
-![Frontend Mentor Challaange](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+[Frontend Mentor Challaange](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
